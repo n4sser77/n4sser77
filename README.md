@@ -1,5 +1,3 @@
----
-
 👋 Hi, I’m @n4sser77
 
 👀 I’m interested in ...
@@ -20,4 +18,4 @@
 ⚡ Fun fact: ...
 - I once hiked to the summit of Mount Kilimanjaro!
 
----
+
