@@ -12,9 +12,7 @@
 - Next.js projects, TailwindCSS design implementations, and backend systems using Node.js.
 
 📫 How to reach me ...
-- Email: n4sser77@example.com
-- LinkedIn: [linkedin.com/in/n4sser77](https://www.linkedin.com/in/n4sser77)
-- Twitter: [@n4sser77](https://twitter.com/n4sser77)
+- Email: nassernqa@icloud.com
 
 😄 Pronouns: ...
 - He/Him
