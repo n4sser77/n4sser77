@@ -12,3 +12,4 @@
 ## 📫 How to reach me ...
 - Email: nassernqa@icloud.com
   
+## Check out my blog where I share projects and ideas that stimulate me to learn concepts and get better as a developer
