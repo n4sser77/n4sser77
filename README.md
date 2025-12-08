@@ -47,3 +47,5 @@
 ## 🧠 Check out my blog
 I share projects and ideas that help me learn and think better as a developer:  
 ➡️ [portfolio-qanasser.vercel.app](https://portfolio-qanasser.vercel.app/)
+[![n4sser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4sser77&show_icons=true&theme=radical)](https://github.com/n4sser77)
+
