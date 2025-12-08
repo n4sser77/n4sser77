@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @n4sser77 — also known as Naser Al-Asbahi
+# Hi, I’m @n4sser77 — also known as Naser Al-Asbahi
 ## 🧰 Tech Stack & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
