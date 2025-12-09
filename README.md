@@ -12,9 +12,7 @@
 
   <br>
 
-  <a href="https://portfolio-qanasser.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
+
   <a href="mailto:nasserqahtan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
   </a>
