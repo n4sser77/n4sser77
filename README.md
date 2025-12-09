@@ -23,10 +23,7 @@
   <br />
   <br />
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=n4sser77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naser's GitHub Stats" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4sser77&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
-  </p>
+
 
 </div>
 
