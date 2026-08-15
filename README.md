@@ -4,8 +4,6 @@
 
 ### Software Developer
 
-<p><i>Nyköping, Sweden</i></p>
-
 <p>
   Software is my craft. I spend most of my time with C#, .NET and Linux,<br>
   while exploring the systems, tools and technologies around them.
