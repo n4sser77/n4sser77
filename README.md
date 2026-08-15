@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # Naser Al-Asbahi
 
@@ -15,9 +15,7 @@
 
 ---
 
-### Tech
-
-<sub>most used ← · · · · · · · · · · · · · · · · · → explored</sub>
+### Tech around me
 
 <div align="center">
 
